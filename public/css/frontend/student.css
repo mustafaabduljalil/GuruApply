@@ -1,0 +1,26 @@
+.student_course {
+    background-color: #e7e7e7;
+    padding-bottom: 55px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.blockform select {
+    background-color: #fff;
+}
+
+a{
+    cursor: pointer;
+}
+
+.student_job {
+    background-color: #e7e7e7;
+    padding-bottom: 55px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

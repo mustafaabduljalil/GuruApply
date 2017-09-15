@@ -1,0 +1,937 @@
+@media (min-width: 1201px) and (max-width: 1920px) {
+}
+ @media (min-width: 1101px) and (max-width: 1199px) {
+}
+ @media (min-width: 1001px) and (max-width: 1199px) {
+.secondary-nav-new {
+	margin: 0;
+	text-align: right;
+	width: 100%;
+}
+.social {
+	float: right;
+	margin-right: 10px;
+}
+.new_nav {
+	width:60px;
+}
+.logonew {
+	margin: 0 0 0;
+	width: auto;
+}
+.header-main {
+	height: auto;
+}
+.mrgnB {
+	width: 100%;
+}
+.searchtop {
+    float: right;
+    margin: 7px 25px 0 0;
+    width: 41%;
+}
+.searchinput input[type="text"] {
+    border-radius: 0 30px 30px 0;
+    padding-right: 30px;
+    width: 96%;
+}
+.navbar-header {
+    padding-bottom: 0;
+    width: 100%;
+}
+.profile_de {
+	float: right;
+	width: 200px;
+}
+.new_nav2 {
+	width: 40%;
+}
+.navbar-fixed-top {
+	position: relative;
+}
+.top-bar {
+	height: auto;
+	text-align: center;
+}
+.college-search-box {
+	display: block;
+	margin: 0 auto;
+	padding: 60px 0;
+	width: 702px;
+}
+.college-search-box h2 {
+	float: left;
+	font-size: 26px;
+	width: 100%;
+}
+footer .col-lg-2, footer .col-md-2 {
+	width: 50%;
+	margin-bottom: 25px;
+}
+.newsletter {
+	margin: 0 auto;
+	width: 190px;
+}
+.foot-social {
+	float: none !important;
+}
+.top_gap {
+	padding: 50px 0 100px;
+}
+.tablecollage {
+	float: left;
+	max-width: 100%;
+	table-layout: initial;
+	width: 100%;
+}
+.floatThead-container {
+	left: 0 !important;
+	overflow: auto;
+	top: 0 !important;
+}
+.overflowdiv {
+	overflow: auto;
+}
+.for_desk {
+	display: none;
+}
+.for_mob {
+	display: block;
+	width: 100%;
+}
+.table-striped td {
+	float: left;
+	width: auto;
+}
+}
+ @media (min-width: 801px) and (max-width: 1000px) {
+.secondary-nav-new {
+	margin: 0;
+	text-align: right;
+	width: 100%;
+}
+.social {
+	float: right;
+	margin-right: 10px;
+}
+.new_nav {
+	width: 60px;
+}
+.logonew {
+	margin: 0 0 0;
+	width: auto;
+}
+.navbar-header {
+    padding-bottom: 0;
+    width: 100%;
+}
+.header-main {
+	height: auto;
+}
+.mrgnB {
+	width: 100%;
+}
+.searchtop {
+    float: right;
+    margin: 7px 25px 0 0;
+    width: 41%;
+}
+.searchinput input[type="text"] {
+    border-radius: 0 30px 30px 0;
+    padding-right: 30px;
+    width: 96%;
+}
+.profile_de {
+	float: right;
+	width: 180px;
+}
+.new_nav2 {
+	width: 40%;
+}
+.navbar-fixed-top {
+	position: relative;
+}
+.top-bar {
+	height: auto;
+	text-align: center;
+}
+.college-search-box {
+	display: block;
+	margin: 0 auto;
+	padding: 60px 0;
+	width: 100%;
+}
+.college-search-box h2 {
+	float: left;
+	font-size: 26px;
+	width: 100%;
+}
+footer .col-lg-2, footer .col-md-2 {
+	width: 50%;
+	margin-bottom: 25px;
+}
+.newsletter {
+	margin: 0 auto;
+	width: 190px;
+}
+.foot-social {
+	float: none !important;
+}
+.top_gap {
+	padding: 50px 0 100px;
+}
+.sidebar {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.image_photo {
+	width: 170px;
+}
+.tablecollage {
+	float: left;
+	max-width: inherit;
+	table-layout: initial;
+	width: 100%;
+}
+.floatThead-container {
+	left: 0 !important;
+	overflow: auto;
+	top: 0 !important;
+}
+.overflowdiv {
+	overflow: auto;
+}
+.for_desk {
+	display: none;
+}
+.for_mob {
+	display: block;
+	width: 100%;
+}
+.table-striped td {
+	float: left;
+	width: auto;
+}
+}
+ @media (min-width: 769px) and (max-width: 800px) {
+.secondary-nav-new {
+	margin: 0 !important;
+	text-align: right !important;
+	width: 100%;
+}
+.social {
+	float: right !important;
+	margin-right: 10px !important;
+}
+.new_nav {
+	width: 20% !important;
+}
+.logonew {
+	margin: 0 0 25px!important;
+	width: auto !important;
+}
+.header-main {
+	height: auto !important;
+}
+.college-search-box h2 {
+	float: left;
+	font-size: 16px;
+	width: 100%;
+}
+.mrgnB {
+	width: 100% !important;
+}
+.searchtop {
+	float: right !important;
+	margin: 7px 0 !important;
+	width: 100% !important;
+}
+.profile_de {
+	float: right !important;
+	width: 160px !important;
+}
+.new_nav2 {
+	width: 40% !important;
+}
+.top_gap {
+	padding: 50px 0 100px;
+}
+}
+ @media (min-width: 481px) and (max-width: 800px) {
+.navbar-fixed-top {
+	position: relative;
+}
+.top-bar {
+	height: auto;
+	text-align: center;
+}
+.social {
+	float: left;
+	margin-left: 0;
+}
+.secondary-nav-new {
+	margin: 10px 0;
+	width: 100%;
+	text-align: center;
+}
+.nav_two {
+	margin: 0;
+	padding: 0;
+}
+.new_nav {
+	width: 70px !important;
+}
+.new_nav img {
+    width: 50px;
+	height:auto;
+}
+.logonew {
+	margin: 6px 20px;
+	padding: 0;
+	text-align: center;
+	width: 80px;
+}
+.searchtop {
+	margin:15px 0 0 0;
+	width: 100% !important;
+}
+.notifybottom {
+	margin-top:22px;
+}
+.notifybottom img{
+	height: auto;
+    width: 25px;
+}
+.searchinput input[type="text"] {
+	padding-right: 53px;
+	width: 98%;
+}
+.new_nav2 {
+	width: 50%;
+}
+.profile_de {
+	float: left;
+	width: 160px;
+}
+.nav_two a:hover {
+	color: #fff !important;
+}
+.dropdown-menu {
+	width: 220px;
+}
+.college-search-box {
+	display: block;
+	margin: 0 auto;
+	padding: 60px 0;
+	width: 100%;
+}
+.college-search-box h2 {
+	font-size: 16px;
+}
+.tan-tabs li {
+	display: inline-block;
+	float: none;
+	margin: 2px 0;
+	width: 49%;
+}
+.tab-box {
+	padding: 20px;
+}
+.select-box {
+	background-size: 250px;
+}
+.select-box select {
+	height: 29px;
+}
+.owl-prev {
+	left: -9px;
+}
+.owl-next {
+	right: -9px;
+}
+.text-box p {
+	padding: 0;
+}
+.circle-box {
+	padding: 0 15px 40px;
+}
+footer .col-lg-2, footer .col-md-2 {
+	width: 100%;
+	margin-bottom: 25px;
+}
+.newsletter {
+	margin: 0 auto;
+	width: 190px;
+}
+.foot-social {
+	float: none !important;
+}
+.searchbox-input {
+	padding: 0 50px 0 0;
+}
+.mrgnB {
+	margin: 0 auto;
+	width: 275px;
+}
+.top_gap {
+	padding: 50px 0 100px;
+}
+.usernames {
+	margin: 20px 0;
+	width: auto;
+}
+.public_pro {
+	float: right !important;
+}
+.custom_panel {
+	float: left;
+}
+.profile_sep {
+	padding: 10px;
+}
+.editbut {
+	border: 1px solid #62addf;
+	float: right;
+	font-size: 15px;
+	margin-bottom: 20px;
+	margin-top: 0;
+	padding: 5px;
+	position: relative;
+	top: 0;
+}
+.des_pro {
+	width: 100% !important;
+}
+.bold span {
+	width: 100% !important;
+}
+.sidebar {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.image_photo {
+	width: 186px;
+}
+.but1 {
+	margin-bottom: 10px;
+}
+.img_left_pane {
+	width: 100%;
+	margin-top: 10px;
+}
+.form_info {
+	padding: 5px 0;
+}
+.edit_butnew {
+	left: 0 !important;
+	position: relative !important;
+	margin-top: 0 !important;
+}
+.edit_butnew a {
+	float: left !important;
+}
+.exp {
+	float: left !important;
+	left: 0;
+	position: relative;
+	top: 0;
+}
+.exp a {
+	position: relative !important;
+	right: inherit;
+	top: inherit;
+}
+.tablecollage {
+	float: left;
+	max-width: inherit;
+	table-layout: initial;
+	width: 800px;
+}
+.floatThead-container {
+	left: 0 !important;
+	overflow: auto;
+	top: 0 !important;
+}
+.overflowdiv {
+	overflow: auto;
+}
+.for_desk {
+	display: none;
+}
+.for_mob {
+	display: block;
+	width: 100%;
+}
+.table-striped td {
+	float: left;
+	width: auto;
+}
+.navbar-nav .open .dropdown-menu {
+    box-shadow: 0 0 5px #ccc;
+    position: absolute;
+}
+}
+ @media (max-width: 480px) {
+.navbar-fixed-top {
+	position: relative;
+}
+.top-bar {
+	height: auto;
+	text-align: center;
+}
+.social {
+	float: left;
+	margin-left: 0;
+}
+.secondary-nav-new {
+	margin: 10px 0;
+	width: 100%;
+	text-align: center;
+}
+.nav_two {
+	margin: 0;
+	padding: 0;
+}
+.new_nav {
+	width: 20%;
+}
+.new_nav img {
+    width: 35px;
+	height:auto;
+}
+.notifybottom {
+	margin-top:22px;
+	margin-left:16px;
+}
+.notifybottom img{
+	height: auto;
+    width: 25px;
+}
+.logonew {
+	margin: 15px 0;
+	padding: 0;
+	text-align: center;
+	width: 23%;
+}
+.logonew img{
+    width: 70px;
+}
+.searchtop {
+	margin: 0;
+	width: 100%;
+}
+.searchinput input[type="text"] {
+	padding-right: 53px;
+	width: 96%;
+}
+.new_nav2 {
+	width: 50%;
+}
+.profile_de {
+	float: left;
+	width: 50%;
+}
+.nav_two a:hover {
+	color: #fff !important;
+}
+.dropdown-menu {
+	width: 220px;
+}
+.college-search-box {
+	display: block;
+	margin: 0 auto;
+	padding: 60px 0;
+	width: 100%;
+}
+.college-search-box h2 {
+	font-size: 16px;
+}
+.tan-tabs li {
+	display: inline-block;
+	float: none;
+	margin: 2px 0;
+	width: 49%;
+}
+.tab-box {
+	padding: 20px;
+}
+.select-box {
+	background-size: 250px;
+}
+.select-box select {
+	height: 29px;
+}
+.owl-prev {
+	left: -9px;
+}
+.owl-next {
+	right: -9px;
+}
+.text-box p {
+	padding: 0;
+}
+.circle-box {
+	padding: 0 15px 40px;
+}
+footer .col-lg-2, footer .col-md-2 {
+	width: 100%;
+	margin-bottom: 25px;
+}
+.newsletter {
+	margin: 0 auto;
+	width: 190px;
+}
+.foot-social {
+	float: none !important;
+}
+.searchbox-input {
+	padding: 0 50px 0 0;
+}
+.mrgnB {
+	margin: 0 auto;
+	width: 275px;
+}
+.top_gap {
+	padding: 50px 0 100px;
+}
+.usernames {
+	margin: 20px 0;
+	width: 100%;
+}
+.public_pro {
+	float: left !important;
+}
+.custom_panel {
+	float: left;
+}
+.profile_sep {
+	padding: 10px;
+}
+.editbut {
+	border: 1px solid #62addf;
+	float: right;
+	font-size: 15px;
+	margin-bottom: 20px;
+	margin-top: 0;
+	padding: 5px;
+	position: relative;
+	top: 0;
+}
+.des_pro {
+	width: 100% !important;
+}
+.bold span {
+	width: 100% !important;
+}
+.btn {
+	margin: 5px;
+}
+.small_bol td {
+	width: 100%;
+	float: left;
+}
+.sidebar {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.formbrochure a {
+	padding: 10px 20px;
+}
+.but1 {
+	margin-bottom: 10px;
+}
+.img_left_pane {
+	width: 100%;
+	margin-top: 10px;
+}
+.image_photo {
+	width: 186px;
+}
+.poptable td {
+	width: 100%;
+	float: left;
+}
+.form_info {
+	padding: 5px 0;
+}
+.edit_butnew {
+	left: 0 !important;
+	position: relative !important;
+	margin-top: 0 !important;
+}
+.edit_butnew a {
+	float: left !important;
+}
+.exp {
+	float: left !important;
+	left: 0;
+	position: relative;
+	top: 0;
+}
+.exp a {
+	position: relative !important;
+	right: inherit;
+	top: inherit;
+}
+.tablecollage {
+	float: left;
+	max-width: inherit;
+	table-layout: initial;
+	width: 800px;
+}
+.floatThead-container {
+	left: 0 !important;
+	overflow: auto;
+	top: 0 !important;
+}
+.overflowdiv {
+	overflow: auto;
+}
+.for_desk {
+	display: none;
+}
+.for_mob {
+	display: block;
+	width: 100%;
+}
+.table-striped td {
+	float: left;
+	width: auto;
+}
+
+.navbar-nav .open .dropdown-menu {
+    box-shadow: 0 0 5px #ccc;
+    position: absolute;
+}
+}
+ @media (max-width: 320px) {
+.navbar-fixed-top {
+	position: relative;
+}
+.top-bar {
+	height: auto;
+	text-align: center;
+}
+.social {
+	float: left;
+	margin-left: 0;
+}
+.secondary-nav-new {
+	margin: 10px 0;
+	width: 100%;
+	text-align: center;
+}
+.nav_two {
+	margin: 0;
+	padding: 0;
+}
+.new_nav {
+    width: 20%;
+}
+.new_nav img {
+    width: 35px;
+	height:auto;
+}
+.notifybottom {
+	margin-top:22px;
+}
+.notifybottom img{
+	height: auto;
+    width: 25px;
+}
+.logonew {
+    margin: 15px 0;
+    padding: 0;
+    text-align: center;
+    width: 23%;
+}
+.logonew img{
+    width: 60px;
+}
+.searchtop {
+	margin: 0;
+	width: 100%;
+}
+.searchinput input[type="text"] {
+	padding-right: 53px;
+	width: 96%;
+}
+.new_nav2 {
+	width: 50%;
+}
+.profile_de {
+    float: right;
+    width: 50%;
+}
+.notifybottom {
+    margin-left: 16px;
+}
+.nav_two a:hover {
+	color: #fff !important;
+}
+.dropdown-menu {
+	width: 220px;
+}
+.college-search-box {
+	display: block;
+	margin: 0 auto;
+	padding: 60px 0;
+	width: 100%;
+}
+.college-search-box h2 {
+	font-size: 16px;
+}
+.tan-tabs li {
+	display: inline-block;
+	float: none;
+	margin: 2px 0;
+	width: 49%;
+}
+.tab-box {
+	padding: 20px;
+}
+.select-box {
+	background-size: 225px;
+}
+.select-box select {
+	height: 29px;
+}
+.owl-prev {
+	left: -9px;
+}
+.owl-next {
+	right: -9px;
+}
+.text-box p {
+	padding: 0;
+}
+.circle-box {
+	padding: 0 15px 40px;
+}
+footer .col-lg-2, footer .col-md-2 {
+	width: 100%;
+	margin-bottom: 25px;
+}
+.newsletter {
+	margin: 0 auto;
+	width: 190px;
+}
+.foot-social {
+	float: none !important;
+}
+.searchbox-input {
+	padding: 0 50px 0 0;
+}
+.mrgnB {
+	margin: 0 auto;
+	width: 250px;
+}
+.top_gap {
+	padding: 50px 0 100px;
+}
+.usernames {
+	margin: 20px 0;
+	width: 100%;
+}
+.public_pro {
+	float: left !important;
+}
+.custom_panel {
+	float: left;
+}
+.profile_sep {
+	padding: 10px;
+}
+.editbut {
+	border: 1px solid #62addf;
+	float: left;
+	font-size: 15px;
+	margin-bottom: 20px;
+	margin-top: 23px;
+	padding: 5px;
+	position: relative;
+	top: 7px;
+}
+.des_pro {
+	width: 100%;
+}
+.bold span {
+	width: 100%;
+}
+.btn {
+	margin: 5px;
+}
+.small_bol td {
+	width: 100%;
+	float: left;
+}
+.sidebar {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.floatThead-container {
+	left: 0 !important;
+	overflow: auto;
+	top: 0 !important;
+}
+.overflowdiv {
+	overflow: auto;
+}
+.for_desk {
+	display: none;
+}
+.for_mob {
+	display: block;
+	width: 100%;
+}
+.table-striped td {
+	float: left;
+	width: auto;
+}
+.formbrochure a {
+	padding: 10px 20px;
+}
+.but1 {
+	margin-bottom: 10px;
+}
+.img_left_pane {
+	width: 100%;
+	margin-top: 10px;
+}
+.poptable td {
+	width: 100%;
+	float: left;
+}
+.form_info {
+	padding: 5px 0;
+}
+.edit_butnew {
+	left: 0 !important;
+	position: relative !important;
+	margin-top: 0 !important;
+}
+.edit_butnew a {
+	float: left !important;
+}
+.exp {
+	float: left !important;
+	left: 0;
+	position: relative;
+	top: 0;
+}
+.exp a {
+	position: relative !important;
+	right: inherit;
+	top: inherit;
+}
+.tablecollage {
+	float: left;
+	max-width: inherit;
+	table-layout: initial;
+	width: 800px;
+}
+.navbar-nav .open .dropdown-menu {
+    box-shadow: 0 0 5px #ccc;
+    position: absolute;
+}
+}
